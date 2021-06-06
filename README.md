@@ -1,2 +1,2 @@
 # practice01
-Master's degree
+Repository for study and learning.
