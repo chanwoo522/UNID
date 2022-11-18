@@ -1,2 +1,2 @@
-# practice01
-Repository for study and learning.
+# Project UNID
+Predicting UNID Stock Price Up and Down with Materials and Macro indices bases.
